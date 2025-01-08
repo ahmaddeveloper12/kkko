@@ -32,6 +32,7 @@ export default function Home() {
               pages/index.js
             </code>
             .
+            helooooooooooooooooooooooooooooooooooooooooo
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
